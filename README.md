@@ -41,3 +41,18 @@ Puedes consultar el resultado consolidado del manual en los siguientes formatos:
 ## 🚀 Versiones y Lanzamientos
 Actualmente el proyecto se encuentra en su versión final y estable:
 * **Última Versión:** [v1.2.0](https://github.com/Kremlin223/manual-colaboracion-uvm/releases/tag/v1.2.0)
+
+---
+
+## 🛠️ Instrucciones de Uso
+Para consultar este manual de forma local:
+1. Clona el repositorio: `git clone https://github.com/Kremlin223/manual-colaboracion-uvm.git`
+2. Navega a la carpeta `/documentos` para leer las secciones individuales.
+3. Abre el archivo `Manual_Buenas_Practicas_UVM.pdf` para la versión de impresión.
+
+## 🤝 Cómo Contribuir
+Si eres estudiante de la UVM y deseas mejorar este manual:
+1. Realiza un **Fork** del proyecto.
+2. Crea una rama para tu mejora: `git checkout -b feature/nueva-seccion`.
+3. Realiza tus cambios para modificar y mejorar el manual.
+4. Envía un **Pull Request** detallando tus aportes para revisión.
