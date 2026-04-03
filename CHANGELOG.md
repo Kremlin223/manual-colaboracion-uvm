@@ -2,6 +2,11 @@
 
 Este archivo registra todos los cambios notables realizados en este proyecto académico.
 
+## [1.1.0] - 2026-04-03
+### Añadido
+- **Sección de Herramientas:** Análisis de ecosistemas digitales para la colaboración (por @Kremlin223).
+- **Sección de Gestión de Tiempos:** Metodologías de productividad y hitos internos (por @garciaartigase-dot).
+
 ## [1.0.0] - 2026-04-03
 ### Añadido
 - **Sección de Organización:** Guía detallada sobre roles de equipo y metodologías de trabajo (por @Kremlin223).
