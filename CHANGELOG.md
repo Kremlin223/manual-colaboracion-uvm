@@ -2,6 +2,12 @@
 
 Este archivo registra todos los cambios notables realizados en este proyecto académico.
 
+## [1.2.0] - 2026-04-03
+### Añadido
+- **Manual Unificado:** Creación del archivo maestro `manual-completo.md`.
+- **Exportación PDF:** Generación del manual en formato PDF con diseño optimizado para lectura.
+- **Portada:** Rediseño del `README.md` como interfaz principal del repositorio.
+
 ## [1.1.0] - 2026-04-03
 ### Añadido
 - **Sección de Herramientas:** Análisis de ecosistemas digitales para la colaboración (por @Kremlin223).
